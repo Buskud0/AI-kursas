@@ -1,5 +1,5 @@
 # AI-kursas
-Tema: Robot Navigation with Obstacles
+```Tema: Robot Navigation with Obstacles
 Aprašymas: Robotas turi nukeliauti iš taško A $(0,0)$ į tašką B $(N,M)$ tinklelyje, kuriame yra sienos (nepraeinami langeliai).
 Pilnas promptas (anglų kalba)
 Nukopijuok ir įklijuok šį tekstą į AI įrankį (pvz., ChatGPT ar Claude):
@@ -18,3 +18,4 @@ goal_test(self, state): Check if the robot reached the target.
 path_cost(self, c, state1, action, state2): Each move costs 1.
 Heuristic: Provide a Manhattan distance heuristic function h(node) for A* search.
 Execution Example: Show how to solve this problem using breadth_first_graph_search and astar_search with the provided heuristic.
+```
