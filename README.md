@@ -4,6 +4,8 @@
 our slogan:
 **dont worry bout it**
 
+https://github.com/aalgirdas/Artificial-Intelligence-Course
+
 
 
 
