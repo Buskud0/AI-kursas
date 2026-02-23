@@ -1,4 +1,7 @@
 # AI-kursas
+**Skaidrės**
+https://gamma.app/docs/AI-Search-Algorithms-with-the-AIMA-Architecture-9c9abkb9bm4bsg6
+
 **Promptas kurį siuntėme į Antigravity AI, kad sukurtų python paieškos uždavinį:**
 ```Tema: Robot Navigation with Obstacles
 Aprašymas: Robotas turi nukeliauti iš taško A $(0,0)$ į tašką B $(N,M)$ tinklelyje, kuriame yra sienos (nepraeinami langeliai).
