@@ -1,5 +1,6 @@
 # AI-kursas
-**Skaidrės**
+**Skaidrės:**
+
 https://gamma.app/docs/AI-Search-Algorithms-with-the-AIMA-Architecture-9c9abkb9bm4bsg6
 
 **Promptas kurį siuntėme į Antigravity AI, kad sukurtų python paieškos uždavinį:**
