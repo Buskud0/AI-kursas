@@ -1,4 +1,5 @@
 # AI-kursas
+**Promptas kurį siuntėme į Antigravity AI, kad sukurtų python paieškos uždavinį:**
 ```Tema: Robot Navigation with Obstacles
 Aprašymas: Robotas turi nukeliauti iš taško A $(0,0)$ į tašką B $(N,M)$ tinklelyje, kuriame yra sienos (nepraeinami langeliai).
 Pilnas promptas (anglų kalba)
